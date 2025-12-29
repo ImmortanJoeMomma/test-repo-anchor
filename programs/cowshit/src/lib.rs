@@ -12,7 +12,7 @@ pub use state::*;
 #[allow(unused_imports)]
 use solana_security_txt::security_txt;
 
-declare_id!("8dGFLiUiUjJzQjMcptHuiLEVcGJjc2HTn6CQnAXSxxUF");
+declare_id!("5TXNvYoKyYy7T3yHWUSSZ8NrqHKr8ckSyy3B5r52cRp3");
 
 #[cfg(not(feature = "no-entrypoint"))]
 security_txt! {
